@@ -1,0 +1,48 @@
+body{
+    background: red;
+    color: white;
+    
+}
+
+
+.header{
+    background: yellow;
+    color: white;
+    
+}
+
+
+.logo img{
+    width: 100px;
+
+
+}
+
+ul{
+
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.principal{ 
+    background:purple ;
+    text-align: center;
+    padding: 50px 34px 54px;
+    margin: 50px 100px 10px;
+}
+
+.segunda_{
+    background: black;
+    text-align: left;
+    padding: 59px 89px 50px;
+    margin: 58px 23px 9px;
+}
+
+.tercera{
+    background: gray;
+    text-align: right;
+    padding: 50px 46px 59px;
+    margin: 26px 10px 99px;
+}
